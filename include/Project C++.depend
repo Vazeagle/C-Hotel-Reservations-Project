@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1494633147 source:c:\users\Στέλιος\desktop\c++\project c++\main.cpp
+	"Reservation.h"
+	"RoomTypeD.h"
+	"RoomTypeE.h"
+	<iostream>
+
+1494632516 c:\users\Στέλιος\desktop\c++\project c++\include\reservation.h
+	<string>
+
+1494633006 c:\users\Στέλιος\desktop\c++\project c++\include\roomtyped.h
+
+1494633137 c:\users\Στέλιος\desktop\c++\project c++\include\roomtypee.h
+
+1495185506 source:c:\users\chatzopoulos thomas\desktop\klm\project c++\main.cpp
+	"Reservation.h"
+	"RoomTypeD.h"
+	"RoomTypeE.h"
+	<iostream>
+
+1495185506 c:\users\chatzopoulos thomas\desktop\klm\project c++\include\reservation.h
+	<string>
+
+1495185506 c:\users\chatzopoulos thomas\desktop\klm\project c++\include\roomtyped.h
+	"Room.h"
+
+1495186313 c:\users\chatzopoulos thomas\desktop\klm\project c++\include\room.h
+
+1495185506 c:\users\chatzopoulos thomas\desktop\klm\project c++\include\roomtypee.h
+	"RoomTypeA.h"
+
+1495186277 c:\users\chatzopoulos thomas\desktop\klm\project c++\include\roomtypea.h
+
+1495172188 source:c:\users\vazeagle\desktop\project c++\main.cpp
+	"Reservation.h"
+	"RoomTypeD.h"
+	"RoomTypeE.h"
+	<iostream>
+
+1495183693 c:\users\vazeagle\desktop\project c++\include\reservation.h
+	<string>
+	"Room.h"
+
+1495184239 c:\users\vazeagle\desktop\project c++\include\roomtyped.h
+	"Room.h"
+
+1495172204 c:\users\vazeagle\desktop\project c++\include\room.h
+
+1495184227 c:\users\vazeagle\desktop\project c++\include\roomtypee.h
+	"RoomTypeA.h"
+
+1495172202 c:\users\vazeagle\desktop\project c++\include\roomtypea.h
+
+1495187983 source:c:\users\chatzopoulos thomas\desktop\klm\main.cpp
+	"Reservation.h"
+	"RoomTypeD.h"
+	"RoomTypeE.h"
+	<iostream>
+
+1495192162 c:\users\chatzopoulos thomas\desktop\klm\include\reservation.h
+	<string>
+	"Room.h"
+
+1495190520 c:\users\chatzopoulos thomas\desktop\klm\include\room.h
+	<Reservation.h>
+
+1495187983 c:\users\chatzopoulos thomas\desktop\klm\include\roomtyped.h
+	"Room.h"
+
+1495187983 c:\users\chatzopoulos thomas\desktop\klm\include\roomtypee.h
+	"RoomTypeA.h"
+
+1495187983 c:\users\chatzopoulos thomas\desktop\klm\include\roomtypea.h
+
